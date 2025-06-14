@@ -67,7 +67,7 @@
     <div class="rangkasurat">
         <table width="100%">
             <tr>
-                <td><img src="{{ public_path('assets/BSIP.png') }}" alt="logo" width="140px"></td>
+                <td><img src="{{ public_path('assets/logokesehatan.png') }}" alt="logo" width="140px"></td>
                 <td class="tengah">
                     <h4> DINAS KESEHATAN BANJARBARU </h4>
                     <p>Gedung Berintan Lantai 1, Jl. A Yani KM. 40, Martapura, Cindai Alus, Martapura, Cindai Alus, Kec.
